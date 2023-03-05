@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/circle-clicker/static/css/main.ab74ab0e.css",
+    "main.js": "/circle-clicker/static/js/main.7c57fd41.js",
+    "static/js/787.1b34c5d9.chunk.js": "/circle-clicker/static/js/787.1b34c5d9.chunk.js",
+    "static/media/cookie.jpg": "/circle-clicker/static/media/cookie.2ac091b4634c232e060b.jpg",
+    "index.html": "/circle-clicker/index.html",
+    "main.ab74ab0e.css.map": "/circle-clicker/static/css/main.ab74ab0e.css.map",
+    "main.7c57fd41.js.map": "/circle-clicker/static/js/main.7c57fd41.js.map",
+    "787.1b34c5d9.chunk.js.map": "/circle-clicker/static/js/787.1b34c5d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab74ab0e.css",
+    "static/js/main.7c57fd41.js"
+  ]
+}
